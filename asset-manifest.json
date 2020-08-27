@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ta-emphasoft/static/css/main.3ec9a589.chunk.css",
-    "main.js": "/ta-emphasoft/static/js/main.ae216e0a.chunk.js",
-    "main.js.map": "/ta-emphasoft/static/js/main.ae216e0a.chunk.js.map",
+    "main.js": "/ta-emphasoft/static/js/main.a79a7a89.chunk.js",
+    "main.js.map": "/ta-emphasoft/static/js/main.a79a7a89.chunk.js.map",
     "runtime-main.js": "/ta-emphasoft/static/js/runtime-main.428f111f.js",
     "runtime-main.js.map": "/ta-emphasoft/static/js/runtime-main.428f111f.js.map",
-    "static/js/2.4ec24491.chunk.js": "/ta-emphasoft/static/js/2.4ec24491.chunk.js",
-    "static/js/2.4ec24491.chunk.js.map": "/ta-emphasoft/static/js/2.4ec24491.chunk.js.map",
+    "static/js/2.496f1ea6.chunk.js": "/ta-emphasoft/static/js/2.496f1ea6.chunk.js",
+    "static/js/2.496f1ea6.chunk.js.map": "/ta-emphasoft/static/js/2.496f1ea6.chunk.js.map",
     "index.html": "/ta-emphasoft/index.html",
-    "precache-manifest.7f1d0b2491d4af9440c4859d6d691803.js": "/ta-emphasoft/precache-manifest.7f1d0b2491d4af9440c4859d6d691803.js",
+    "precache-manifest.39c815e7b476cb4dd2e7995bd4896aba.js": "/ta-emphasoft/precache-manifest.39c815e7b476cb4dd2e7995bd4896aba.js",
     "service-worker.js": "/ta-emphasoft/service-worker.js",
     "static/css/main.3ec9a589.chunk.css.map": "/ta-emphasoft/static/css/main.3ec9a589.chunk.css.map",
-    "static/js/2.4ec24491.chunk.js.LICENSE.txt": "/ta-emphasoft/static/js/2.4ec24491.chunk.js.LICENSE.txt"
+    "static/js/2.496f1ea6.chunk.js.LICENSE.txt": "/ta-emphasoft/static/js/2.496f1ea6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.428f111f.js",
-    "static/js/2.4ec24491.chunk.js",
+    "static/js/2.496f1ea6.chunk.js",
     "static/css/main.3ec9a589.chunk.css",
-    "static/js/main.ae216e0a.chunk.js"
+    "static/js/main.a79a7a89.chunk.js"
   ]
 }
