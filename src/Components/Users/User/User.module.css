@@ -1,0 +1,28 @@
+
+.userCard{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.idRound{
+    color: #0069d9;
+    font-weight: bold;
+}
+
+.userContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.marginContainer{
+    margin: 40px 0;
+}

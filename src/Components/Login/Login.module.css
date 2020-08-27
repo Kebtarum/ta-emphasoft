@@ -1,0 +1,16 @@
+
+.loginContainer{
+    max-width: 500px;
+}
+
+.errorSpan{
+    color: red;
+}
+
+.error {
+    border: solid red 2px;
+}
+
+.marginContainer{
+    margin: 40px 0;
+}
