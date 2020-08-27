@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ta-emphasoft/static/css/main.3ec9a589.chunk.css",
+    "main.js": "/ta-emphasoft/static/js/main.eb99549b.chunk.js",
+    "main.js.map": "/ta-emphasoft/static/js/main.eb99549b.chunk.js.map",
+    "runtime-main.js": "/ta-emphasoft/static/js/runtime-main.428f111f.js",
+    "runtime-main.js.map": "/ta-emphasoft/static/js/runtime-main.428f111f.js.map",
+    "static/js/2.4ec24491.chunk.js": "/ta-emphasoft/static/js/2.4ec24491.chunk.js",
+    "static/js/2.4ec24491.chunk.js.map": "/ta-emphasoft/static/js/2.4ec24491.chunk.js.map",
+    "index.html": "/ta-emphasoft/index.html",
+    "precache-manifest.601b09e0a10a7bcb7a8a8f815c30a06d.js": "/ta-emphasoft/precache-manifest.601b09e0a10a7bcb7a8a8f815c30a06d.js",
+    "service-worker.js": "/ta-emphasoft/service-worker.js",
+    "static/css/main.3ec9a589.chunk.css.map": "/ta-emphasoft/static/css/main.3ec9a589.chunk.css.map",
+    "static/js/2.4ec24491.chunk.js.LICENSE.txt": "/ta-emphasoft/static/js/2.4ec24491.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.428f111f.js",
+    "static/js/2.4ec24491.chunk.js",
+    "static/css/main.3ec9a589.chunk.css",
+    "static/js/main.eb99549b.chunk.js"
+  ]
+}
