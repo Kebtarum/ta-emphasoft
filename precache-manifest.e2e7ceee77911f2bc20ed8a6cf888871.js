@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb75d533c92f70d7dac31daf6beefb38",
+    "revision": "c5d9ffa51bae736f61c78ae98210e3b1",
     "url": "/ta-emphasoft/index.html"
   },
   {
-    "revision": "465d659fb271c1834847",
-    "url": "/ta-emphasoft/static/css/main.49aeed01.chunk.css"
+    "revision": "aa91ece36ab40e3d49cb",
+    "url": "/ta-emphasoft/static/css/main.ba155d5c.chunk.css"
   },
   {
     "revision": "7b2d9553e9c8dae65f56",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ta-emphasoft/static/js/2.4ec24491.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "465d659fb271c1834847",
-    "url": "/ta-emphasoft/static/js/main.f15dd6b1.chunk.js"
+    "revision": "aa91ece36ab40e3d49cb",
+    "url": "/ta-emphasoft/static/js/main.36b6875d.chunk.js"
   },
   {
     "revision": "52b0f506d62e85d2eeb0",
